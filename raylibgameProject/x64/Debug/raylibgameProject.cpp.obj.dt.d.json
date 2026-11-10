@@ -1,0 +1,18 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\zeko_\\onedrive\\bureau\\ilsi\\poo\\codetps\\learning c++\\learning c++\\raylibgameproject\\raylibgameproject\\raylibgameproject.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\zeko_\\onedrive\\bureau\\ilsi\\poo\\codetps\\learning c++\\learning c++\\raylibgameproject\\raylibgameproject\\player.h",
+            "c:\\users\\zeko_\\onedrive\\bureau\\raylib-6.2_win64_msvc16\\include\\raylib.h",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\stdarg.h",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\vcruntime.h",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\sal.h",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\concurrencysal.h",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\vadefs.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
